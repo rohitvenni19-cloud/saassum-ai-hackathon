@@ -1,0 +1,6 @@
+{
+  "name": "SaaSsum AI",
+  "description": "Data Quality & AI Cleaning Engine with deterministic AST compilation, interactive diffs, human-in-the-loop review, and audit-ready exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
